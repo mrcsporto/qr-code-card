@@ -26,8 +26,8 @@ main {
 
 .container {
     background-color: white;  
-    width: 497px;
-    height: 320px;
+    width: 21rem;
+    height: 31rem;
     border-radius: 1.5rem;
 
     box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
@@ -43,7 +43,7 @@ main {
 
 .qr-img {
     width: 100%;
-    padding: 1rem 1rem 0.5rem 1rem;
+    padding: 1rem;
     border-radius: 1.5rem;
 }
 
@@ -56,13 +56,13 @@ main {
 }
 
 .sub-title {
-    padding: 0 2rem 0 2rem;
+    padding: 1rem 2rem 2.5rem 2rem;
     font-size: 15px;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
    
     text-align: center;
-    padding-bottom: 2.5rem;
+   
    
 }
 
